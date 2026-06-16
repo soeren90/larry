@@ -1,0 +1,11 @@
+# This repo is a sanitized showcase — keep it that way.
+# Never commit real operational data, exports, or memory.
+*.csv
+*.xlsx
+*.db
+*.sqlite
+downloads/
+memory/
+.env
+.env.*
+.DS_Store
