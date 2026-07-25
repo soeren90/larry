@@ -1,5 +1,9 @@
 # The memory vault
 
+> Larry's view of the memory model. The generalized substrate — shared with the
+> other agents, plus the cross-host sync and security model — lives in
+> [`shared-brain`](https://github.com/soeren90/shared-brain).
+
 The memory vault is a folder of plain Markdown files that every agent reads
 before a task and writes to after. It doubles as a personal knowledge base
 (openable in any notes app). No database, no embeddings — and at this scale,

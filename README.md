@@ -15,6 +15,13 @@ architecture, the patterns, and the design decisions, with all company-,
 customer-, and tool-specific details removed. It's meant to be read, not run
 as-is. See [Status & scope](#status--scope).
 
+> **Part of a system.** Larry is one **body** on a shared brain —
+> [`shared-brain`](https://github.com/soeren90/shared-brain), the plain-Markdown
+> store of memory, skills, and agent definitions, with the cross-host sync and
+> security model that keep it safe and consistent. Its always-on counterpart,
+> [`hermes-agent`](https://github.com/soeren90/hermes-agent), reads the same
+> brain as a 24/7 service.
+
 ---
 
 ## The shape of it
