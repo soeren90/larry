@@ -4,8 +4,7 @@
 > plain-Markdown memory vault and a set of scheduled automations that brief,
 > chase, report — and learn from how I actually decide.
 
-Larry is the operations brain I built for myself as an Operations & Customer
-Success lead. It doesn't try to be one giant do-everything prompt. It's a
+Larry is an operations brain I built for myself. It doesn't try to be one giant do-everything prompt. It's a
 **system**: one orchestrator that understands intent and delegates, a roster of
 narrow specialists that each do one job well, a shared memory that survives
 across sessions, and background jobs that run whether or not I'm at my desk.
