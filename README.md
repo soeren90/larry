@@ -18,7 +18,7 @@ as-is. See [Status & scope](#status--scope).
 > [`shared-brain`](https://github.com/soeren90/shared-brain), the plain-Markdown
 > store of memory, skills, and agent definitions, with the cross-host sync and
 > security model that keep it safe and consistent. Its always-on counterpart,
-> [`hermes-agent`](https://github.com/soeren90/hermes-agent), reads the same
+> [`hermes-agent`](https://github.com/soeren90/hermes-agent), read the same
 > brain as a 24/7 service.
 
 ---
